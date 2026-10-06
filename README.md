@@ -7,3 +7,4 @@
 <u>OK</u>
 
 <https://dbb.ntou.edu.tw/>
+<https://dbb.ntou.edu.tw/p/405-1074-45951,c7249.php?Lang=zh-tw>
